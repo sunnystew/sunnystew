@@ -9,6 +9,10 @@
 # Core Skills
 ![Static Badge](https://img.shields.io/badge/Python-ff8800?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Static Badge](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
+
+# Hobbies
+![Static Badge](https://img.shields.io/badge/Cisco%20VoIP-000000?style=for-the-badge&logo=cisco&logoColor=ffffff)
 
 
 <!---
