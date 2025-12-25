@@ -6,6 +6,11 @@
 - 📫 Feel free to shoot me an email at: sunnystew22@gmail.com
 - 😄 Pronouns: he/him // they/them
 
+# Core Skills
+![Static Badge](https://img.shields.io/badge/Python-ff8800?style=for-the-badge&logo=python&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+
 <!---
 sunnystew/sunnystew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
