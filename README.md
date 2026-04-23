@@ -12,7 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
 
 I've been learning:
+
 Programming for 4 years
+
 Electronics & Robotics for 2 years
 
 # Hobbies
